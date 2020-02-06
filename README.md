@@ -12,4 +12,4 @@ FJsonMap RequestBody = {
 };
 ```
 
-To to get the JSON string just call the `ToString()` method on the `FJsonMap`
+To get the JSON string just call the `ToString()` method on the `FJsonMap`
